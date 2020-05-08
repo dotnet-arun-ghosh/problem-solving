@@ -1,7 +1,0 @@
-F:\GitHub\Problem-Solving\Problem-Solving\bin\Debug\Problem-Solving.exe.config
-F:\GitHub\Problem-Solving\Problem-Solving\bin\Debug\Problem-Solving.exe
-F:\GitHub\Problem-Solving\Problem-Solving\bin\Debug\Problem-Solving.pdb
-F:\GitHub\Problem-Solving\Problem-Solving\obj\Debug\Problem-Solving.csprojAssemblyReference.cache
-F:\GitHub\Problem-Solving\Problem-Solving\obj\Debug\Problem-Solving.csproj.CoreCompileInputs.cache
-F:\GitHub\Problem-Solving\Problem-Solving\obj\Debug\Problem-Solving.exe
-F:\GitHub\Problem-Solving\Problem-Solving\obj\Debug\Problem-Solving.pdb

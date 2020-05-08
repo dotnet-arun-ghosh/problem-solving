@@ -1,0 +1,17 @@
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Problem-Solving-Tests.dll
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Problem-Solving-Tests.pdb
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Problem-Solving.exe
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Problem-Solving.pdb
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Problem-Solving.exe.config
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\obj\Debug\Problem-Solving-Tests.csprojAssemblyReference.cache
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\obj\Debug\Problem-Solving-Tests.csproj.CoreCompileInputs.cache
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\obj\Debug\Problem-Solving-Tests.csproj.CopyComplete
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\obj\Debug\Problem-Solving-Tests.dll
+F:\GitHub\Problem-Solving\Problem-Solving-Tests\obj\Debug\Problem-Solving-Tests.pdb

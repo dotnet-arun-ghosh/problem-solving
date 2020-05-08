@@ -18,7 +18,7 @@ namespace Problem_Solving
                 // as we are dealing with lowercase letter and array index is starting from ZERO
                 // we are taking the ASCII value of character 'a' which is 97 
                 // so that we can assign if the character is 'a' we can assign to the index zero of array.
-                int asciiOfinitialChar = 'a';
+                int asciiOfInitialChar = 'a';
 
                 // array index 26 as we have only 26 alphabet. 
                 int[] alphabetArray = new int[26];
@@ -34,9 +34,9 @@ namespace Problem_Solving
                     }
 
                     // subtracting with 97 so we can assign 'a' to index 0 and b to index 1 so on..
-                    var index = ch - asciiOfinitialChar;
+                    var index = ch - asciiOfInitialChar;
                     // incrementing the count so that we can get to know how many character is there in a string
-                    alphabetArray[ch - asciiOfinitialChar]++;
+                    alphabetArray[ch - asciiOfInitialChar]++;
                 }
 
                 // fixed looping, can be considered as O(1) as it is always loop 26 times irrespective of length of the array
@@ -48,7 +48,7 @@ namespace Problem_Solving
                         // converting to character by adding the asciiOfinitialChar 97 
                         // so that we will get if the index is 1 then 1 + 97 = 98  which is the ASCII vale of character 'b'
                         // break the loop as we found first non repeating character
-                        firstNonRepeatingChar = (char)(i + asciiOfinitialChar);
+                        firstNonRepeatingChar = (char)(i + asciiOfInitialChar);
                         break;
                     }
                 }

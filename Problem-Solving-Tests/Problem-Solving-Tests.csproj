@@ -51,6 +51,7 @@
   <ItemGroup>
     <Compile Include="NonRepeatingFirstCharcterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TopKFrequentlyMentionedKeywordTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

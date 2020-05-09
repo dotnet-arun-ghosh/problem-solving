@@ -60,5 +60,24 @@ namespace Problem_Solving_Tests
             Assert.AreEqual("betacellular", responseArray[1]);
             Assert.AreEqual(k, responseArray.Length);
         }
+
+        [TestMethod]
+        public void GetFrequentlyMentionedKeywordMethodShouldReturnAnacellAndBetacellularInSequenceWhenAnacellAndBetacellularAndDeltacellularIsMostlyMentionedInReviewAndAnacellAndBetacellularAndDeltacellularSameNumberOfTimeAsAnacellAndBetacellularComesFirstInAlphabet()
+        {
+            int k = 2;
+            string[] keywords = new string[] { "anacell", "betacellular", "cetracular", "deltacellular", "eurocell" };
+            string[] reviews = new string[]{
+              "I love anacell Best services; Best services provided by anacell",
+              "betacellular has great services",
+              "deltacellular provides much better services than betacellular",
+              "cetracular deltacellular anacell is worse than anacell",
+              "Betacellular is better than deltacellular. anacell"
+            };
+            var responseArray = TopKFrequentlyMentionedKeyword.GetFrequentlyMentionedKeyword(k, keywords, reviews);
+
+            Assert.AreEqual("anacell", responseArray[0]);
+            Assert.AreEqual("betacellular", responseArray[1]);
+            Assert.AreEqual(k, responseArray.Length);
+        }
     }
 }

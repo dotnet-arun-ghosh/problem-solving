@@ -46,6 +46,7 @@
     <Compile Include="NonRepeatingFirstCharcter.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SearchSuggestions.cs" />
     <Compile Include="TopKFrequentlyMentionedKeyword.cs" />
     <Compile Include="ZombieMatrix.cs" />
   </ItemGroup>

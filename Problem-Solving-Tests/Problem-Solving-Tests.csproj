@@ -50,9 +50,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="CriticalRouterTest.cs" />
+    <Compile Include="LongestPalindromicSubStringTest.cs" />
+    <Compile Include="MonkAndIslandTest.cs" />
     <Compile Include="NonRepeatingFirstCharcterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SearchSuggestionsTest.cs" />
+    <Compile Include="SingleDirectionBfs.cs" />
     <Compile Include="TopKFrequentlyMentionedKeywordTests.cs" />
     <Compile Include="ZobieMatrixTest.cs" />
   </ItemGroup>

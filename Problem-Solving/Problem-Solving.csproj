@@ -43,16 +43,21 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bfs.cs" />
+    <Compile Include="BuyAndSellStock.cs" />
+    <Compile Include="ContainsDuplicate.cs" />
     <Compile Include="CriticalRouter.cs" />
     <Compile Include="FibonacciNumber.cs" />
     <Compile Include="LongestPalindromicSubString.cs" />
     <Compile Include="MonkAndIsland.cs" />
     <Compile Include="NonRepeatingFirstCharcter.cs" />
+    <Compile Include="NonRepeatingLongestSubstring.cs" />
+    <Compile Include="ProductOfArrayExceptSelf.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SearchSuggestions.cs" />
     <Compile Include="SingleDirectionBfs.cs" />
     <Compile Include="TopKFrequentlyMentionedKeyword.cs" />
+    <Compile Include="TwoSum.cs" />
     <Compile Include="ZombieMatrix.cs" />
   </ItemGroup>
   <ItemGroup>

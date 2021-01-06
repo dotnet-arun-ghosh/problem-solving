@@ -49,14 +49,18 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BuyAndSellStockTest.cs" />
     <Compile Include="CriticalRouterTest.cs" />
     <Compile Include="LongestPalindromicSubStringTest.cs" />
     <Compile Include="MonkAndIslandTest.cs" />
     <Compile Include="NonRepeatingFirstCharcterTests.cs" />
+    <Compile Include="NonRepeatingLongestSubstring.cs" />
+    <Compile Include="ProductOfArrayExceptSelf.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SearchSuggestionsTest.cs" />
     <Compile Include="SingleDirectionBfs.cs" />
     <Compile Include="TopKFrequentlyMentionedKeywordTests.cs" />
+    <Compile Include="TwoSumTests.cs" />
     <Compile Include="ZobieMatrixTest.cs" />
   </ItemGroup>
   <ItemGroup>
